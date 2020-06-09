@@ -46,24 +46,24 @@
            
         },
          {
-            "name": "Nffsaruto: Shippuuden",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "name": "Manzanilla",
+            "description": "La manzanilla es actualmente una de las plantas más consumidas en forma de infusión. Hay gente que habla de “té de manzanilla”, pero es una expresión un tanto incorrecta. Si queremos referirnos la preparación con agua caliente de esta o cualquier otra planta que no sea té (té negro, té verde, etc.), es necesario hablar de infusión.",
             "Rating": "8.16",
             "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "http://api.androidhive.info/json/movies/6.jpg",
-            "text":"https://drive.google.com/uc?export=download&id=1no-TTlGm_booHorsiggPFwcBOspHYuu0"
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/55TQ6TW/Manzanilla.jpg",
+            "text":""
            
         },
          {
-            "name": "Naruto: Shippuuden",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "name": "Caléndula",
+            "description": "Junto al aloe vera y la bardana, la caléndula es una de las plantas más indicadas para aliviar afecciones dermatológicas.",
             "Rating": "8.16",
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Studio Pierrot",
-            "img": "http://api.androidhive.info/json/movies/4.jpg",
+            "img": "https://i.ibb.co/wdNmKwh/Cal-ndula.jpg",
             "text":"https://drive.google.com/uc?export=download&id=1no-TTlGm_booHorsiggPFwcBOspHYuu0"
            
         },
