@@ -80,26 +80,26 @@
            
         },
          {
-            "name": "",
-            "description": "",
+            "name": "Lavanda",
+            "description": "La lavanda es una planta medicinal que se caracteriza por sus propiedades calmantes. Además su aceite esencial es muy beneficioso para la salud.",
             "Rating": "8.16",
             "episode": 500,
-            "categorie":"",
+            "categorie":"Planta Medicinal",
             "studio":"",
-            "img": "",
+            "img": "https://i.ibb.co/42jGFfq/Lavanda.jpg",
             "text":""
           
            
         }
         ,
          {
-            "name": "",
-            "description": "",
+            "name": "Equinácea",
+            "description": "La equinácea contribuye a disminuir la fiebre, la mucosidad y la tos asociadas tanto al resfriado como a otras enfermedades del sistema respiratorio.",
             "Rating": "8.16",
             "episode": 500,
-            "categorie":"",
+            "categorie":"Planta Medicinal",
             "studio":"",
-            "img": "",
+            "img": "https://i.ibb.co/qpjn5HV/Equin-cea.jpg",
             "text":""
           
            
@@ -109,7 +109,7 @@
             "description": "",
             "Rating": "8.16",
             "episode": 500,
-            "categorie":"",
+            "categorie":"Planta Medicinal",
             "studio":"",
             "img": "",
             "text":""
