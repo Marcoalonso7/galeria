@@ -175,14 +175,15 @@
            }
            ,
          {
-            "name": "",
-            "description": "",
+            "name": "Ajenjo",
+            "description": "El ajenjo, es una planta herbácea nativa de Latinoamérica, que también se da en las regiones templadas de Europa y África, tiene grandes beneficios, propiedades y usos medicinales que se ha usado por las civilizaciones más antiguas del planeta, se le considera una planta medicinal muy efectiva.",
             "Rating": "8.16",
             "episode": 500,
             "categorie":"",
             "studio":"",
-            "img": "",
+            "img": "https://i.ibb.co/x3krtYF/Ajenjo.jpg",
             "text":""
            }
-           
+                    
+        
     ]
