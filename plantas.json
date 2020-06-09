@@ -121,12 +121,68 @@
             "description": "El gordolobo, cuyo nombre científico es Verbascum thapsus, es una planta que crece en diferentes partes del mundo, sobre todo en terrenos verdes secos, como praderas, de Europa, Asia, América del Norte y parte de África.Se trata de una planta bastante versátil, ya que sirve para tratar una gran cantidad de afecciones y dolencias, y pese a no ser muy conocida, todo aquél interesado en plantas medicinales la tiene en cuenta. La misma pertenece a la familia de las escrofulariáceas.",
             "Rating": "8.16",
             "episode": 500,
-            "categorie":"",
+            "categorie":"Planta Medicinal",
             "studio":"",
             "img": "https://i.ibb.co/vxWvRk3/Gordolobo.jpg",
             "text":""
           
            
         }
-
+,
+         {
+            "name": "Cayena",
+            "description": "La cayena o pimienta roja es un alimento originario de América del Sur, Central y México, que se usa para sazonar alimentos. Esta se consume de manera habitual molida, una vez que se ha dejado secar, por lo que también se la conoce como ají en polvo o chile en polvo. Así, se trata de un tipo de pimiento de color rojizo que destaca por su sabor picante.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/5Wv9pCb/Cayena.jpg",
+            "text":""
+           }
+           
+        ,
+         {
+            "name": "Diente de león",
+            "description": "El diente de león común (Taraxacum officinale, en chino: pugongying) es una planta herbácea vivaz de la familia de las asteráceas. Posee hojas desde la base dispuestas en roseta, muy lobuladas y dentadas, y una raíz central larga y gruesa [3, 4]. Sus flores amarillas forman grandes ramilletes, visibles desde primavera hasta el verano en las ricas praderas para la apicultura. La planta segrega una savia lechosa en todas sus partes. También conocida como achicoria amarga, amargón o almirón, posee otros numerosos nombres populares.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/GxH6sbv/Diente-de-le-n.jpg",
+            "text":""
+           }
+           ,
+         {
+            "name": "Ajo",
+            "description": "El ajo es un ingrediente esencial en la dieta mediterránea y uno de los alimentos más saludables. Empleado desde antiguo como condimento, existen pruebas que demuestran que los antiguos egipcios lo consumían hace 6.000 años y que sus propiedades culinarias y medicinales eran igualmente alabadas por los griegos.",
+            "Rating": "8.16",
+            "episode": 500,
+           "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/c3vxLyC/Ajo.jpg",
+            "text":""
+           }
+           ,
+         {
+            "name": "Jengibre",
+            "description": "El jengibre es una raíz de planta con múltiples beneficios para el cuerpo y para la salud en general. Durante siglos se usó en la dieta típica de distintas culturas gracias sus propiedades naturales y de carácter nutritivo. Aumentar la temperatura del cuerpo en la gente friolera, acelerar el metabolismo, aumentar la libido o contribuir a evitar náuseas y mareos durante el embarazo son algunos de los beneficios de este alimento.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/9bqN0yd/Jengibre.jpg",
+            "text":""
+           }
+           ,
+         {
+            "name": "",
+            "description": "",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "",
+            "text":""
+           }
+           
     ]
