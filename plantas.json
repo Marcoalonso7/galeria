@@ -61,36 +61,72 @@
             "description": "Junto al aloe vera y la bardana, la caléndula es una de las plantas más indicadas para aliviar afecciones dermatológicas.",
             "Rating": "8.16",
             "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Studio Pierrot",
+            "categorie":"Planta Medicinal",
+            "studio":"",
             "img": "https://i.ibb.co/wdNmKwh/Cal-ndula.jpg",
-            "text":"https://drive.google.com/uc?export=download&id=1no-TTlGm_booHorsiggPFwcBOspHYuu0"
+            "text":""
            
         },
          {
-            "name": "Naruto: Shippuuden",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "name": "Milenrama",
+            "description": "La milenrama es una planta medicinal con numerosos usos tanto a nivel interno como externo, entre los que destaca el uso oral contra la diarrea, problemas de meteorismo y estomacales en general y en el uso externo como cicatrizante.",
             "Rating": "8.16",
             "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "http://api.androidhive.info/json/movies/9.jpg",
-             "text":"https://drive.google.com/uc?export=download&id=1no-TTlGm_booHorsiggPFwcBOspHYuu0"
+            "categorie":"Planta Medicinal",
+            "studio":"",
+            "img": "https://i.ibb.co/9wPcxwd/Milenrama.jpg",
+             "text":""
         
            
         },
          {
-            "name": "Naruto: Shippuuden",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "name": "",
+            "description": "",
             "Rating": "8.16",
             "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "http://api.androidhive.info/json/movies/3.jpg",
-            "text":"https://drive.google.com/uc?export=download&id=1no-TTlGm_booHorsiggPFwcBOspHYuu0"
+            "categorie":"",
+            "studio":"",
+            "img": "",
+            "text":""
           
            
         }
-        
+        ,
+         {
+            "name": "",
+            "description": "",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "",
+            "text":""
+          
+           
+        },
+         {
+            "name": "",
+            "description": "",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "",
+            "text":""
+          
+           
+        },
+         {
+            "name": "",
+            "description": "",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "",
+            "text":""
+          
+           
+        }
 
     ]
