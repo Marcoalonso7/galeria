@@ -185,5 +185,38 @@
             "text":""
            }
                     
-        
-    ]
+         ,
+         {
+            "name": "Albahaca",
+            "description": "El aceite contenido en las hojas destruye las bacterias e insectos. El zumo de las hojas alivia bronquitis, fiebres, catarros, inflamaciones de garganta y problemas digestivos. Gracias a su olor y suave sabor aromático se usa como condimento. Contra flatulencia y gases, es antiespasmódica. Una infusión de hojas frescas y gotas de limón calman los dolores de estómago y espasmos intestinales. La infusión de sus hojas es diurética, estimulante, digestiva y relajante; el zumo de las hojas con miel de abejas alivia la fiebre. El té de albahaca hace producir más leche en las madres. El té frío es bueno para problemas en los ojos, tanto en enjuague como bebida. La albahaca es el gran regulador del sistema nervioso.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "https://i.ibb.co/1zzqCFp/Albahaca.jpg",
+            "text":""
+           }
+     ,
+         {
+            "name": "",
+            "description": "",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "",
+            "text":""
+           }
+		     ,
+         {
+            "name": "",
+            "description": "",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"",
+            "studio":"",
+            "img": "",
+            "text":""
+           }
+
+   ]
