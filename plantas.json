@@ -198,35 +198,35 @@
            }
      ,
          {
-            "name": "",
-            "description": "",
+            "name": "Apio",
+            "description": "Tiene acción diurética, sirve para combatir el estreñimiento, alivia la acidez estomacal, es una fuente de calcio, disminuye el colesterol, repone los electrolitos perdidos en la actividad física y tiene propiedades anti-inflamatorias.",
             "Rating": "8.16",
             "episode": 500,
             "categorie":"",
             "studio":"",
-            "img": "",
+            "img": "https://i.ibb.co/rs2G1Sv/Apio.jpg",
             "text":""
            }
 		     ,
          {
-            "name": "",
-            "description": "",
+            "name": "Árnica",
+            "description": "Es un potente anti-inflamatorio generalmente se usa por vía tópica para el tratamiento de hematomas, esguinces, inflamaciones causadas por picaduras de insectos y en enfermedades reumáticas.",
             "Rating": "8.16",
             "episode": 500,
             "categorie":"",
             "studio":"",
-            "img": "",
+            "img": "https://i.ibb.co/HHH2hP9/arnica.jpg",
             "text":""
            }
  ,
          {
-            "name": "",
-            "description": "",
+            "name": "Bardana",
+            "description": "La bardana se suele utilizar para problemas dermatológicos, artritis e infecciones. En Europa se han utilizado tradicionalmente la raíz y las hojas, mientras que la medicina china prefiere las semillas y las suele incluir en los tratamientos del resfriado común.",
             "Rating": "8.16",
             "episode": 500,
             "categorie":"",
             "studio":"",
-            "img": "",
+            "img": "https://i.ibb.co/Y29PD5J/Bardana.jpg",
             "text":""
            }
  ,
